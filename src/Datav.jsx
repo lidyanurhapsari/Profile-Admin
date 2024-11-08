@@ -32,7 +32,7 @@ function Datav() {
       {/* Main Form */}
       <div className="bg-white w-full max-w-3xl rounded-lg shadow-lg p-8">
         {/* Profile Details */}
-        <div className="text-center mb-6">
+        <div className="mb-6">
           <h1 className="text-2xl font-semibold text-gray-800">Profile Relawan</h1>
           <p className="text-gray-600">{email}</p>
         </div>

@@ -1,10 +1,10 @@
 import React from "react"
-import Adminp from "./Adminp";
+import Sidebar from "./component/Sidebar";
 
 function App() {
     return (
         <div>
-            <Adminp/>
+            <Sidebar/>
         </div>
     );
 };
